@@ -1,4 +1,4 @@
-# All-Weather Portfolio
+# All-Weather Portfolio Strategy
 This is an algorithimic implementation of an "All-Weather" portfolio based on concepts established by Bridgewater Associates, LP. This investment strategy  is structured to be indifferent to shifts in discounted economic conditions by balancing assets based on structural economic movements. This is a passive strategy, and does not rely on predictions of future conditions.
 
 
